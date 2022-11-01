@@ -1,6 +1,5 @@
 package com.educandoweb.course.resources.exceptions;
 
-import com.educandoweb.course.resources.exceptions.StandardError;
 import com.educandoweb.course.services.exceptions.DatabaseException;
 import com.educandoweb.course.services.exceptions.ResourceNotFoundException;
 import jakarta.servlet.http.HttpServletRequest;
